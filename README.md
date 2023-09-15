@@ -7,4 +7,4 @@ Welcome to my Github profile.  Some things you might want to know about me:
 - 🔬 My research focuses on 😈 security & 🎭 privacy
 - 🤠 I am from Texas 🌵 and happy to be back in Austin
 - I am enjoying programming in [Swift](https://swift.org/) -- Particularly with [SwiftUI](https://developer.apple.com/xcode/swiftui/)
-- My primary project these days is [Circles](https://github.com/KombuchaPrivacy/circles-ios), a new end-to-end encrypted social networking app with privacy built in from the start.
+- My primary project these days is [Circles](https://github.com/futo-org/circles-ios), a new end-to-end encrypted social networking app with privacy built in from the start.
